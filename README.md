@@ -13,7 +13,7 @@ pip install torch==1.10.1+cu111 torchvision==0.11.2+cu111 torchaudio==0.10.1 -f 
 ## Fetch the Code
 Fetch the source code for the reliabity assessment of UWV by run:
 ```
-git clone https://github.com/Solitude-SAMR/UWV_RAM
+git clone https://github.com/YD-19/RAM_FOCETA.git
 ```
 
 ## Prepare the Dataset
