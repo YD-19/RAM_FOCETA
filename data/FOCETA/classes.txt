@@ -1,0 +1,6 @@
+Car
+Motor
+Truck
+Human
+Trailer
+DontCare

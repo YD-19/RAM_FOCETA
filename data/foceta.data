@@ -1,0 +1,4 @@
+classes= 6
+train=data/FOCETA/train.txt
+valid=data/FOCETA/val.txt
+names=data/FOCETA/classes.txt
